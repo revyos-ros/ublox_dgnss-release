@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/ublox_dgnss-release
 tracks:
   galactic:
     actions:
