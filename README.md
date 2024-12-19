@@ -1,3 +1,32 @@
+## ublox_dgnss (jazzy) - 0.5.4-1
+
+The packages in the `ublox_dgnss` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy ublox_dgnss --override-release-repository-push-url git@github.com:revyos-ros/ublox_dgnss-release.git` on `Thu, 19 Dec 2024 07:44:30 -0000`
+
+These packages were released:
+- `ntrip_client_node`
+- `ublox_dgnss`
+- `ublox_dgnss_node`
+- `ublox_nav_sat_fix_hp_node`
+- `ublox_ubx_interfaces`
+- `ublox_ubx_msgs`
+
+Version of package(s) in repository `ublox_dgnss`:
+
+- upstream repository: https://github.com/aussierobots/ublox_dgnss
+- release repository: https://github.com/revyos-ros/ublox_dgnss-release.git
+- rosdistro version: `0.5.4-1`
+- old version: `0.5.3-3`
+- new version: `0.5.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ublox_dgnss (jazzy) - 0.5.3-3
 
 The packages in the `ublox_dgnss` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ublox_dgnss --override-release-repository-push-url git@github.com:revyos-ros/ublox_dgnss-release` on `Wed, 19 Jun 2024 08:30:07 -0000`
